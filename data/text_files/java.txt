@@ -1,0 +1,5 @@
+Java Programming Language 
+
+Java is a high-level, object-oriented programming language originally developed by Sun Microsystems and now maintained by Oracle. It was designed with the principle of “write once, run anywhere,” meaning that compiled Java code can run on any device that supports the Java Virtual Machine (JVM) without needing to be recompiled. This makes Java highly portable across different operating systems such as Windows, macOS, and Linux.
+
+Java is widely used in enterprise applications, web backends, Android mobile development, and large-scale systems. Its syntax is similar to C++, but it removes many low-level complexities like manual memory management by using automatic garbage collection. This helps reduce memory leaks and makes development safer and more stable.
